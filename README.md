@@ -1,5 +1,8 @@
 # 합성 미세구조 경도 예측 (DAKER / 데이콘)
 
+- 진행 정리·실험 결과·검증한 가설: [REPORT.md](REPORT.md)
+- 관련 논문 조사·추천 모델: [LITERATURE.md](LITERATURE.md)
+
 환경: Windows 11, Python 3.12, RTX 4070 Laptop 8GB. 라이브러리 버전은 `requirements.txt`.
 데이터는 `open/` (train/, test/, train.csv, sample_submission.csv) 상대경로로 읽는다.
 
