@@ -1,0 +1,11 @@
+.venv/
+open/
+open.zip
+*.pdf
+__pycache__/
+outputs/*.npz
+outputs/*.png
+outputs/features_train_aug.csv
+outputs/log_*.txt
+.claude/
+outputs/blobs_train.csv
